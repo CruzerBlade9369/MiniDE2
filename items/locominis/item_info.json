@@ -1,0 +1,10 @@
+{
+    "Name": "DE2 Miniature",
+    "Description": "Tiny Desk DE2!",
+    "Amount": 20,
+    "Price": 100,
+    "AssetBundleName": "loco miniatures",
+    "PrefabPath": "Assets/de2.prefab",
+    "IconStandardPath": "Assets/icons/standard.png",
+    "IconDroppedPath": "Assets/icons/dropped.png"
+}

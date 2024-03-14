@@ -1,0 +1,9 @@
+{
+	"Id": "blahaj",
+	"Version": "0.0.1",
+	"DisplayName": "Blåhaj",
+	"Author": "Tostiman",
+	"HomePage": "https://git.tostiman.com/tostiman/dv_blahaj",
+	"Repository": "https://git.tostiman.com/tostiman/dv_blahaj/raw/branch/master/repository.json",
+	"Requirements": ["custom_item_mod-0.0.1"]
+}

@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3693149841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b627991fe423158b7c4298a03161f936
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51c682616bd7f3dc763b52b2f08205a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/icons/standard.png
+- Assets/Materials/de2_tex.mat
+- Assets/de2.prefab
+- Assets/meshes/de2.obj
+- Assets/textures/de2_spec.png
+- Assets/icons/dropped.png
+- Assets/textures/de2_tex.png
+Dependencies: []
